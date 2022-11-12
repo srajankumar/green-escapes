@@ -24,7 +24,11 @@
       class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top"
     >
       <div class="container">
-        <a class="navbar-brand" href="index.html">Green Escapes</a>
+        <script>
+          document.write(
+            '<a href="' + document.referrer + '">Green Escapes</a>'
+          );
+        </script>
         <button
           class="navbar-toggler navbar-toggler-right"
           type="button"
@@ -62,7 +66,9 @@
 
       <ol class="breadcrumb">
         <li class="breadcrumb-item">
-          <a href="index.html">Home</a>
+          <script>
+            document.write('<a href="' + document.referrer + '">Home</a>');
+          </script>
         </li>
         <li class="breadcrumb-item active">Anantheshwara Temple</li>
       </ol>
