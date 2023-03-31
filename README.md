@@ -13,10 +13,10 @@ An web-application which has access to the NavIC System and help to discover new
 ## Screenshots
 
 <div display=flex>
-<img src="img/ss1.jpg" width="220" />
-<img src="img/ss2.jpg" width="220" />
-<img src="img/ss3.jpg" width="220" />
-<img src="img/ss4.jpg" width="220" />
+<img src="img/ss1.jpg" width="200" />
+<img src="img/ss2.jpg" width="200" />
+<img src="img/ss3.jpg" width="200" />
+<img src="img/ss4.jpg" width="200" />
 </div>
 
 ## Authors
