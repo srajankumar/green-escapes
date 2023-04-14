@@ -8,6 +8,7 @@ An web-application which has access to the NavIC System and help to discover new
 
 - Help tourists visit much less known places around
 - Gain knowledge of the localites and culture
+- Just a prototype
 
 
 ## Screenshots
