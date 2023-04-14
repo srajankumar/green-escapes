@@ -22,5 +22,6 @@ An web-application which has access to the NavIC System and help to discover new
 
 ## Authors
 
+- [@srajankumar](https://github.com/srajankumar)
 - [@TejasNayak42](https://github.com/TejasNayak42)
 - [@BhatNishanthGanesh](https://github.com/BhatNishanthGanesh)
